@@ -1,10 +1,13 @@
 .main{
     background-color: cornflowerblue;
     height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
 }
 
 .second{
-    background-color: dodgerblue;
+    background-color: rgb(30, 83, 255);
     height: 100vh;
 }
 
